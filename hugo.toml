@@ -6,7 +6,7 @@ theme = 'PaperMod'
 # Substack-style settings
 enableRobotsTXT = true
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
@@ -33,7 +33,11 @@ pygmentsUseClasses = true
 
 [params.homeInfoParams]
   Title = "The Forgetting"
-  Content = "Exploring how music works as embodied, contextual experience - with AI/tech as recurring character showing us what's missing when you strip that away."
+  Content = """
+Exploring how music works as embodied, contextual experience - with AI/tech as recurring character showing us what's missing when you strip that away.
+
+*A series of essays developed through human-AI collaboration. Ideas and frameworks are mine; articulation gets help. [Read more about this process](/about/).*
+"""
 
 [[menu.main]]
   name = "Articles"
