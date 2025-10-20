@@ -1,0 +1,49 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'The Forgetting'
+theme = 'PaperMod'
+
+# Substack-style settings
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+# URL structure mimicking Substack
+[permalinks]
+  posts = '/p/:slug/'
+
+[params]
+  description = "Exploring how music works as embodied, contextual experience"
+  author = "Stephen"
+
+  # Substack-style display
+  showBreadCrumbs = false
+  showPostNavLinks = false
+  showCodeCopyButtons = false
+  showReadingTime = true
+  showShareButtons = false
+  showToc = false
+  disableScrollToTop = true
+
+  # Typography - Substack uses serif for reading
+  # This will be further customized with CSS
+
+[params.homeInfoParams]
+  Title = "The Forgetting"
+  Content = "Exploring how music works as embodied, contextual experience - with AI/tech as recurring character showing us what's missing when you strip that away."
+
+[[menu.main]]
+  name = "Articles"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[markup.goldmark.renderer]
+  unsafe = true

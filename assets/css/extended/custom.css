@@ -1,0 +1,160 @@
+/* Substack-inspired Typography and Layout */
+
+:root {
+    --content-width: 680px;
+    --font-serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+/* Body typography - Substack uses larger serif fonts */
+.post-content {
+    font-family: var(--font-serif);
+    font-size: 20px;
+    line-height: 1.7;
+    letter-spacing: -0.003em;
+    max-width: var(--content-width);
+    margin: 0 auto;
+}
+
+.post-content p {
+    margin-bottom: 1.5em;
+}
+
+/* Headers - sans-serif like Substack */
+.post-title,
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.post-title {
+    font-size: 42px;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 28px;
+    margin-top: 1.8em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 22px;
+    margin-top: 1.6em;
+    margin-bottom: 0.5em;
+}
+
+/* Post metadata - smaller, subtle */
+.post-meta {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 2em;
+}
+
+/* Homepage article list - newsletter style */
+.post-entry {
+    margin-bottom: 3em;
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 2em;
+}
+
+.post-entry .entry-header h2 {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+.post-entry .entry-content {
+    font-family: var(--font-serif);
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Links - subtle underline like Substack */
+.post-content a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.3);
+    text-underline-offset: 2px;
+    transition: text-decoration-color 0.2s;
+}
+
+.post-content a:hover {
+    text-decoration-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Generous spacing - Substack is very airy */
+.main {
+    max-width: var(--content-width);
+    margin: 0 auto;
+    padding: 2em 1.5em;
+}
+
+/* Header/masthead - minimal */
+.nav {
+    font-family: var(--font-sans);
+    font-size: 14px;
+}
+
+.logo {
+    font-family: var(--font-sans);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* Reading time estimate */
+.read-time {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: #666;
+}
+
+/* Blockquotes - Substack style */
+.post-content blockquote {
+    border-left: 3px solid #000;
+    padding-left: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: italic;
+    color: #333;
+}
+
+/* Lists */
+.post-content ul,
+.post-content ol {
+    margin-bottom: 1.5em;
+    padding-left: 1.5em;
+}
+
+.post-content li {
+    margin-bottom: 0.5em;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .post-content {
+        font-size: 18px;
+    }
+
+    .post-title {
+        font-size: 32px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+}
