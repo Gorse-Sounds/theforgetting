@@ -1,4 +1,4 @@
-baseURL = 'https://theforgetting.com/'
+baseURL = 'https://theforgetting.org/'
 languageCode = 'en-us'
 title = 'The Forgetting'
 theme = 'PaperMod'
