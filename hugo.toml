@@ -60,3 +60,19 @@ Exploring how music works as embodied, contextual experience - with AI/tech as r
 
 [markup.goldmark.renderer]
   unsafe = true
+
+# Comments via Giscus (GitHub Discussions)
+[params.comments]
+  enable = true
+
+[params.giscus]
+  repo = "Gorse-Sounds/theforgetting"
+  repoId = "R_kgDOQqYVqw"
+  category = "Announcements"
+  categoryId = "DIC_kwDOQqYVq84Cz6xC"
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "top"
+  theme = "light"
+  lang = "en"
