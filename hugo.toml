@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://theforgetting.com/'
 languageCode = 'en-us'
 title = 'The Forgetting'
 theme = 'PaperMod'
@@ -18,6 +18,7 @@ pygmentsUseClasses = true
 [params]
   description = "Exploring how music works as embodied, contextual experience"
   author = "Stephen"
+  dateFormat = "January 2006"
 
   # Substack-style display
   showBreadCrumbs = false
@@ -30,6 +31,9 @@ pygmentsUseClasses = true
 
   # Typography - Substack uses serif for reading
   # This will be further customized with CSS
+
+[params.footer]
+  text = "Thoughts? [Get in touch](/contact/)"
 
 [params.homeInfoParams]
   Title = "The Forgetting"
@@ -48,6 +52,11 @@ Exploring how music works as embodied, contextual experience - with AI/tech as r
   name = "About"
   url = "/about/"
   weight = 20
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 30
 
 [markup.goldmark.renderer]
   unsafe = true

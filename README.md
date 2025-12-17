@@ -13,7 +13,7 @@ Exploring how music works as embodied, contextual experience - with AI/tech as r
 
 ### 1. "Why You Feel Bass in Your Chest"
 - Haptic dimension of music
-- Your friend's speaker-in-furniture work
+- Julie Freeman's project Sonaforms® at shapedsound.com
 - Bone conduction and Evelyn Glennie
 - How low frequencies are felt proprioceptively, not just heard
 - Why clubs are loud - music as full-body experience
@@ -33,7 +33,7 @@ Exploring how music works as embodied, contextual experience - with AI/tech as r
 - Role of memory, association, personal history in emotional response to abstract patterns
 
 ### 4. "Furniture That Sings"
-- Deep dive on your friend's work
+- Deep dive on Julie Freeman's Sonaforms® work
 - How making music haptic changes the listening experience
 - What deaf people hear through bone conduction
 - Sensory substitution
@@ -65,7 +65,7 @@ Exploring how music works as embodied, contextual experience - with AI/tech as r
 - Demonstrates the gap between pattern and meaning
 
 ## Starting Points
-- Begin with either the haptic furniture piece (interview your friend) or the personal context piece (mine your own experience)
+- Begin with either the haptic furniture piece (interview Julie Freeman) or the personal context piece (mine your own experience)
 - Write what excites you most
 - Get one published, see how it feels, adjust from there
 
