@@ -15,7 +15,7 @@ This is why bass in headphones, no matter how good, never quite matches standing
 
 ## When Furniture Sings
 
-Julie Freeman's project Sonaforms® at shapedsound.com embeds transducers in chairs and tables so the furniture itself becomes the medium of vibration. People feel the music through contact, not just air pressure.
+Julie Freeman's project Sonaforms® at shapedsound.com embeds transducers in stylish wooden forms so the furniture itself becomes the medium of vibration. People feel the music through contact, not just air pressure.
 
 Evelyn Glennie, the deaf percussionist, doesn't "hear" in the conventional sense. She feels vibrations through her feet, her hands, bone conduction through her skull. She's not doing something extraordinary - she's just making explicit what all of us do when we encounter low frequencies. Music was always tactile. We just forgot to notice.
 
