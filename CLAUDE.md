@@ -54,9 +54,11 @@ contractor). Keep both.
 - **gorsesounds.co.uk** — commercial audio software.
 - **maxgatedigital.com** — the consultancy.
 
-Substack is a distribution channel, not a presence. Nothing here is a
+Substack is a beacon, not a presence: it links to everything Stephen publishes,
+this site included, and nothing is written for it (21 Sep 2026). Nothing here is a
 service, a product or a case study, and the sister sites never cite
-this one as such.
+this one as such. **Text-only, by decision (Stephen, 21 Sep 2026)** — no audio;
+the one open thought is accessibility features for blind readers, undecided.
 
 ## What publishes here
 
