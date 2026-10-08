@@ -17,6 +17,8 @@ pygmentsUseClasses = true
 
 [params]
   description = "Exploring how music works as embodied, contextual experience"
+  # Cloudflare Web Analytics (cookie-free). Used by layouts/partials/extend_head.html.
+  cloudflareBeaconToken = "34557ffd23f34931a3fd1ff8e9b0c4e4"
   author = "Stephen"
   dateFormat = "January 2006"
 
